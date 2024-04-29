@@ -1,0 +1,3 @@
+﻿  GameOfLife.cpp
+C:\Users\szymo\source\repos\GameOfLife\GameOfLife\GameOfLife.cpp(46,10): warning C4101: "arr3": lokalna zmienna, do której nie istnieje odwołanie
+  GameOfLife.vcxproj -> C:\Users\szymo\source\repos\GameOfLife\x64\Debug\GameOfLife.exe
